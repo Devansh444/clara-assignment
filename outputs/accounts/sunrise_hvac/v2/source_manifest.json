@@ -1,5 +1,5 @@
 {
-  "source_type": "simulation_onboarding",
+  "source_type": "onboarding",
   "source_path": "dataset/onboarding/sunrise_hvac_onboarding.txt",
-  "sha256": "simulation"
+  "sha256": "example"
 }

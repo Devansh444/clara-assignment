@@ -50,7 +50,7 @@
   "after_hours_flow_summary": "Greet, ask purpose, confirm emergency. For emergency: collect name, number, and address immediately, attempt transfer, fallback with apology and urgent callback assurance. For non-emergency: collect details and confirm business-hours follow-up. Ask anything else, then close.",
   "office_hours_flow_summary": "Greet, ask purpose, collect name and callback number, route or transfer, fallback on transfer failure, confirm next step, ask anything else, close.",
   "questions_or_unknowns": [],
-  "notes": "Simulation output for expected assignment format.",
+  "notes": "Example output for expected assignment format.",
   "version": "v2",
   "last_updated_utc": "2026-03-04T11:42:00+00:00"
 }
