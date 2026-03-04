@@ -1,0 +1,11 @@
+Company name: G&M Pressure washing
+Onboarding status: detailed onboarding call transcript not provided yet.
+Current known data from intake:
+- contact person: Shelley Manley
+- callback number: 403-870-8494
+- email: gm_pressurewash@yahoo.ca
+Unknowns to confirm during onboarding:
+- business hours and timezone
+- emergency definition and routing
+- transfer timeout and retry rules
+- integration constraints

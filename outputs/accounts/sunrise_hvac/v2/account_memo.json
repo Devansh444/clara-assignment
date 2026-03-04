@@ -1,0 +1,56 @@
+{
+  "account_id": "sunrise_hvac",
+  "company_name": "Sunrise HVAC Services",
+  "business_hours": {
+    "days": [
+      "monday",
+      "tuesday",
+      "wednesday",
+      "thursday",
+      "friday"
+    ],
+    "start": "7:00 AM",
+    "end": "6:00 PM",
+    "timezone": "CST"
+  },
+  "office_address": "2450 West Lake St, Chicago, IL 60612",
+  "services_supported": [
+    "hvac",
+    "maintenance",
+    "inspection"
+  ],
+  "emergency_definition": [
+    "No cooling during extreme heat",
+    "Gas smell reported on site"
+  ],
+  "emergency_routing_rules": {
+    "primary_contacts": [
+      "(312) 555-0101",
+      "(312) 555-0102"
+    ],
+    "order": [
+      "dispatcher",
+      "on_call_tech",
+      "backup_manager"
+    ],
+    "fallback": "If transfer fails, apologize and confirm urgent callback."
+  },
+  "non_emergency_routing_rules": {
+    "during_business_hours": "Collect caller details and route to office queue.",
+    "after_hours": "Collect details and confirm follow-up during business hours."
+  },
+  "call_transfer_rules": {
+    "timeout_seconds": 60,
+    "retries": 2,
+    "transfer_fail_script": "I am sorry, I could not connect you right now. Our team will follow up shortly."
+  },
+  "integration_constraints": [
+    "Do not auto-create emergency jobs in ServiceTrade without human confirmation."
+  ],
+  "after_hours_flow_summary": "Greet, ask purpose, confirm emergency. For emergency: collect name, number, and address immediately, attempt transfer, fallback with apology and urgent callback assurance. For non-emergency: collect details and confirm business-hours follow-up. Ask anything else, then close.",
+  "office_hours_flow_summary": "Greet, ask purpose, collect name and callback number, route or transfer, fallback on transfer failure, confirm next step, ask anything else, close.",
+  "questions_or_unknowns": [],
+  "notes": "Simulation output for expected assignment format.",
+  "version": "v2",
+  "last_updated_utc": "2026-03-04T11:42:00+00:00"
+}

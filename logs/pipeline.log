@@ -1,0 +1,49 @@
+2026-03-04 16:11:00,630 INFO Starting pipeline with input_root=dataset
+2026-03-04 16:11:00,632 INFO Discovered 0 demo files and 0 onboarding files
+2026-03-04 16:11:00,633 INFO Pipeline complete. Accounts processed: 0
+2026-03-04 16:11:24,012 INFO Starting pipeline with input_root=dataset
+2026-03-04 16:11:24,013 INFO Discovered 1 demo files and 1 onboarding files
+2026-03-04 16:11:24,029 INFO Generated v1 for account_id=acme_fire_demo from dataset\demo\acme_fire_demo.txt
+2026-03-04 16:11:24,029 WARNING No v1 found for account_id=acme_fire_onboarding. Creating v1 first from onboarding as fallback.
+2026-03-04 16:11:24,053 INFO Generated v2 for account_id=acme_fire_onboarding from dataset\onboarding\acme_fire_onboarding.txt
+2026-03-04 16:11:24,055 INFO Pipeline complete. Accounts processed: 2
+2026-03-04 16:11:41,107 INFO Starting pipeline with input_root=dataset
+2026-03-04 16:11:41,119 INFO Discovered 1 demo files and 1 onboarding files
+2026-03-04 16:11:41,136 INFO Generated v1 for account_id=acme_fire from dataset\demo\acme_fire_demo.txt
+2026-03-04 16:11:41,164 INFO Generated v2 for account_id=acme_fire from dataset\onboarding\acme_fire_onboarding.txt
+2026-03-04 16:11:41,165 INFO Pipeline complete. Accounts processed: 1
+2026-03-04 16:14:47,721 INFO Starting pipeline with input_root=dataset
+2026-03-04 16:14:47,724 INFO Discovered 1 demo files and 1 onboarding files
+2026-03-04 16:14:47,738 INFO Generated v1 for account_id=acme_fire from dataset\demo\acme_fire_demo.txt
+2026-03-04 16:14:47,754 INFO Generated v2 for account_id=acme_fire from dataset\onboarding\acme_fire_onboarding.txt
+2026-03-04 16:14:47,756 INFO Pipeline complete. Accounts processed: 1
+2026-03-04 16:24:46,191 INFO Starting pipeline with input_root=dataset
+2026-03-04 16:24:46,194 INFO Discovered 4 demo files and 2 onboarding files
+2026-03-04 16:24:46,198 INFO Generated v1 for account_id=acme_fire from dataset\demo\acme_fire_demo.txt
+2026-03-04 16:24:46,221 INFO Generated v1 for account_id=chat from dataset\demo\chat.txt
+2026-03-04 16:24:46,266 INFO Generated v1 for account_id=gm_pressure_washing from dataset\demo\gm_pressure_washing_demo.m4a
+2026-03-04 16:24:46,409 INFO Generated v1 for account_id=video1975518882 from dataset\demo\video1975518882.mp4
+2026-03-04 16:24:46,433 INFO Generated v2 for account_id=acme_fire from dataset\onboarding\acme_fire_onboarding.txt
+2026-03-04 16:24:46,451 INFO Generated v2 for account_id=gm_pressure_washing from dataset\onboarding\gm_pressure_washing_onboarding.txt
+2026-03-04 16:24:46,452 INFO Pipeline complete. Accounts processed: 4
+2026-03-04 16:25:24,243 INFO Starting pipeline with input_root=dataset
+2026-03-04 16:25:24,259 INFO Discovered 2 demo files and 2 onboarding files
+2026-03-04 16:25:24,274 INFO Generated v1 for account_id=acme_fire from dataset\demo\acme_fire_demo.txt
+2026-03-04 16:25:24,289 INFO Generated v1 for account_id=gm_pressure_washing from dataset\demo\gm_pressure_washing_demo.m4a
+2026-03-04 16:25:24,305 INFO Generated v2 for account_id=acme_fire from dataset\onboarding\acme_fire_onboarding.txt
+2026-03-04 16:25:24,320 INFO Generated v2 for account_id=gm_pressure_washing from dataset\onboarding\gm_pressure_washing_onboarding.txt
+2026-03-04 16:25:24,322 INFO Pipeline complete. Accounts processed: 2
+2026-03-04 16:26:20,386 INFO Starting pipeline with input_root=dataset
+2026-03-04 16:26:20,390 INFO Discovered 2 demo files and 2 onboarding files
+2026-03-04 16:26:20,394 INFO Generated v1 for account_id=acme_fire from dataset\demo\acme_fire_demo.txt
+2026-03-04 16:26:20,410 INFO Generated v1 for account_id=gm_pressure_washing from dataset\demo\gm_pressure_washing_demo.m4a
+2026-03-04 16:26:20,430 INFO Generated v2 for account_id=acme_fire from dataset\onboarding\acme_fire_onboarding.txt
+2026-03-04 16:26:20,447 INFO Generated v2 for account_id=gm_pressure_washing from dataset\onboarding\gm_pressure_washing_onboarding.txt
+2026-03-04 16:26:20,449 INFO Pipeline complete. Accounts processed: 2
+2026-03-04 16:26:49,703 INFO Starting pipeline with input_root=dataset
+2026-03-04 16:26:49,706 INFO Discovered 2 demo files and 2 onboarding files
+2026-03-04 16:26:49,710 INFO Generated v1 for account_id=acme_fire from dataset\demo\acme_fire_demo.txt
+2026-03-04 16:26:49,724 INFO Generated v1 for account_id=gm_pressure_washing from dataset\demo\gm_pressure_washing_demo.m4a
+2026-03-04 16:26:49,741 INFO Generated v2 for account_id=acme_fire from dataset\onboarding\acme_fire_onboarding.txt
+2026-03-04 16:26:49,757 INFO Generated v2 for account_id=gm_pressure_washing from dataset\onboarding\gm_pressure_washing_onboarding.txt
+2026-03-04 16:26:49,759 INFO Pipeline complete. Accounts processed: 2

@@ -1,0 +1,58 @@
+[
+  {
+    "key": "acme_fire_demo:v1:acme_fire_demo.txt",
+    "account_id": "acme_fire_demo",
+    "version": "v1",
+    "source_file": "dataset\\demo\\acme_fire_demo.txt",
+    "status": "generated"
+  },
+  {
+    "key": "acme_fire_onboarding:v2:acme_fire_onboarding.txt",
+    "account_id": "acme_fire_onboarding",
+    "version": "v2",
+    "source_file": "dataset\\onboarding\\acme_fire_onboarding.txt",
+    "status": "generated"
+  },
+  {
+    "key": "acme_fire:v1:acme_fire_demo.txt",
+    "account_id": "acme_fire",
+    "version": "v1",
+    "source_file": "dataset\\demo\\acme_fire_demo.txt",
+    "status": "generated"
+  },
+  {
+    "key": "acme_fire:v2:acme_fire_onboarding.txt",
+    "account_id": "acme_fire",
+    "version": "v2",
+    "source_file": "dataset\\onboarding\\acme_fire_onboarding.txt",
+    "status": "generated"
+  },
+  {
+    "key": "chat:v1:chat.txt",
+    "account_id": "chat",
+    "version": "v1",
+    "source_file": "dataset\\demo\\chat.txt",
+    "status": "generated"
+  },
+  {
+    "key": "gm_pressure_washing:v1:gm_pressure_washing_demo.m4a",
+    "account_id": "gm_pressure_washing",
+    "version": "v1",
+    "source_file": "dataset\\demo\\gm_pressure_washing_demo.m4a",
+    "status": "generated"
+  },
+  {
+    "key": "video1975518882:v1:video1975518882.mp4",
+    "account_id": "video1975518882",
+    "version": "v1",
+    "source_file": "dataset\\demo\\video1975518882.mp4",
+    "status": "generated"
+  },
+  {
+    "key": "gm_pressure_washing:v2:gm_pressure_washing_onboarding.txt",
+    "account_id": "gm_pressure_washing",
+    "version": "v2",
+    "source_file": "dataset\\onboarding\\gm_pressure_washing_onboarding.txt",
+    "status": "generated"
+  }
+]

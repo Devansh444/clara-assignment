@@ -1,0 +1,7 @@
+Company name: Acme Fire Protection
+Onboarding updates:
+Business hours confirmed as Monday to Friday 7:30 AM to 6:00 PM EST.
+After-hours non-emergency extinguisher requests can be collected for next business day follow-up.
+All emergency sprinkler calls must go directly to the phone tree number (201) 555-0199 first.
+If transfer fails after 60 seconds, dispatch must be notified.
+Do not create sprinkler jobs in ServiceTrade.

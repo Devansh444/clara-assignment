@@ -1,0 +1,16 @@
+{
+  "accounts_processed": [
+    "acme_fire",
+    "gm_pressure_washing"
+  ],
+  "demo_files": [
+    "dataset\\demo\\acme_fire_demo.txt",
+    "dataset\\demo\\gm_pressure_washing_demo.m4a"
+  ],
+  "onboarding_files": [
+    "dataset\\onboarding\\acme_fire_onboarding.txt",
+    "dataset\\onboarding\\gm_pressure_washing_onboarding.txt"
+  ],
+  "output_root": "outputs",
+  "changelog_root": "changelog"
+}

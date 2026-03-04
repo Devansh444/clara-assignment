@@ -1,0 +1,5 @@
+{
+  "source_type": "simulation_demo",
+  "source_path": "dataset/demo/sunrise_hvac_demo.txt",
+  "sha256": "simulation"
+}

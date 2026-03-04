@@ -1,0 +1,9 @@
+Company Name: Acme Fire Protection
+Business hours: Monday to Friday 8:00 AM to 5:00 PM EST.
+Office address: 101 Main St, Newark, NJ 07102
+We handle sprinkler, fire alarm, extinguisher inspections and maintenance.
+Emergency examples include sprinkler leak, alarm triggered, active fire panel trouble.
+For emergency calls transfer to dispatcher at (201) 555-0111 then on-call tech at 201-555-0112.
+If transfer fails, apologize and promise quick follow-up.
+Transfer timeout is 45 seconds with 2 retries.
+Never create sprinkler jobs in ServiceTrade automatically.
